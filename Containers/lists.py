@@ -103,3 +103,31 @@ Use the keyword not to check if an item is not in a list:
 
 # colors = ["blue", "green", "yellow"]
 # print("black" not in colors)
+
+"""
+You can get the size of a list (the number of items in it) with the len function:
+"""
+
+# print(len(colors))
+
+"""
+Here is an example of how you might use a list in practice:
+"""
+
+colors = ["purple",
+          "orange",
+          "green"]
+
+guess = input("Guess a color:")
+
+if guess in colors:
+    print("You guessed correctly!")
+else:
+    print("Wrong! Try again.")
+
+"""
+The colors list contains different strings representing colors. The program uses the
+built-in "input" function to ask the user to guess a color, and you save their answer
+in a variable. If their answer is in the colors list, the program lets the user know
+they guessed correctly. Otherwise, it prompts them to guess again.
+"""
