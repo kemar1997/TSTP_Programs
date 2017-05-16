@@ -48,3 +48,14 @@ exception:
 
 # dys[1] = "Handmaid's Tale"
 # TypeError: 'tuple' object does not support item assignment
+
+"""
+You can get items from tuple the same way you would from a list - by referencing the
+item's index:
+"""
+
+dys = ("1984",
+       "Brave New World",
+       "Fahrenheit 451")
+
+print(dys[2])
