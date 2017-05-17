@@ -54,8 +54,35 @@ You can get items from tuple the same way you would from a list - by referencing
 item's index:
 """
 
+# dys = ("1984",
+#        "Brave New World",
+#        "Fahrenheit 451")
+
+# print(dys[2])
+
+"""
+You can check if an item is in a tuple using the keyword in:
+"""
+
 dys = ("1984",
        "Brave New World",
        "Fahrenheit 451")
 
-print(dys[2])
+
+print("1984" in dys)
+
+"""
+Put the keyword not before in to check if an item is not in a tuple:
+"""
+
+print("Handmaid's Tale" not in dys)
+
+"""
+Tuples appears to be a less flexible list. Tuples are useful when you are dealing
+with values you know will never change, and you want to ensure other parts of
+your program won't change them. Geographic coordinates are an example of data
+that is useful to store in a tuple. You should store the longitude and latitude
+of a city in a tuple because those values are never going to change and storing
+the data in a tuple ensures other parts of your program can't accidentally change
+them. Tuples - unlike lists - can be used as keys in dictionaries.
+"""
