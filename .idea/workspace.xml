@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Containers/dictionaries.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Containers/tuples.py" afterPath="$PROJECT_DIR$/Containers/tuples.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +18,27 @@
       <file leaf-file-name="lists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Containers/lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3275">
-              <caret line="131" column="66" lean-forward="false" selection-start-line="131" selection-start-column="66" selection-end-line="131" selection-end-column="66" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tuples.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dictionaries.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Containers/dictionaries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="86" lean-forward="false" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tuples.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Containers/tuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
+            <state relative-caret-position="2150">
               <caret line="86" column="66" lean-forward="false" selection-start-line="86" selection-start-column="66" selection-end-line="86" selection-end-column="66" />
               <folding />
             </state>
@@ -61,8 +71,9 @@
         <option value="$PROJECT_DIR$/ch4_challenge3.py" />
         <option value="$PROJECT_DIR$/ch4_challenge4.py" />
         <option value="$PROJECT_DIR$/ch4_challenge5.py" />
-        <option value="$PROJECT_DIR$/Containers/lists.py" />
         <option value="$PROJECT_DIR$/Containers/tuples.py" />
+        <option value="$PROJECT_DIR$/Containers/lists.py" />
+        <option value="$PROJECT_DIR$/Containers/dictionaries.py" />
       </list>
     </option>
   </component>
@@ -88,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,11 +127,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Pycharm_Projects/TSTP_Programs/ch4_challenge4.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuples">
+  <component name="RunManager" selected="Python.ch4_challenge4">
     <configuration default="false" name="ch4_challenge3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,10 +311,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tuples" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ch4_challenge5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ch4_challenge4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ch4_challenge4" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tuples" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lists" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ch4_challenge5" />
         <item index="4" class="java.lang.String" itemvalue="Python.ch4_challenge3" />
       </list>
     </recent_temporary>
@@ -398,23 +410,30 @@
       <option name="project" value="LOCAL" />
       <updated>1494959914551</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Chapter5 - Tuples(Update3)">
+      <created>1495001286456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1495001286456</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27760968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16263238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31751227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -438,7 +457,8 @@
     <MESSAGE value="Chapter5 - Tuples" />
     <MESSAGE value="Chapter5 - Tuples(Update)" />
     <MESSAGE value="Chapter5 - Tuples(Update2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter5 - Tuples(Update2)" />
+    <MESSAGE value="Chapter5 - Tuples(Update3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter5 - Tuples(Update3)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -447,6 +467,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Containers/lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Containers/tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2150">
+          <caret line="86" column="66" lean-forward="false" selection-start-line="86" selection-start-column="66" selection-end-line="86" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Containers/lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3275">
@@ -562,13 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch4_challenge4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch4_challenge3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -583,14 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Containers/lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3275">
-          <caret line="131" column="66" lean-forward="false" selection-start-line="131" selection-start-column="66" selection-end-line="131" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch4_challenge5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -598,10 +619,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch4_challenge4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Containers/tuples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
+        <state relative-caret-position="2150">
           <caret line="86" column="66" lean-forward="false" selection-start-line="86" selection-start-column="66" selection-end-line="86" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Containers/lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Containers/dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="86" lean-forward="false" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
           <folding />
         </state>
       </provider>
