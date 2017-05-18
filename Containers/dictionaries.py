@@ -126,3 +126,11 @@ if n in rhymes:
     print(rhyme)
 else:
     print("Not found. Try again.")
+
+"""
+Your dictionary (rhymes) has six song names (keys) mapped to six musicians (values). You ask the user to type the
+name of a song and save their response in a variable. Before you look up their response in your dictionary, check
+to make sure the key exists using the 'in' keyword. If the key exists, you look up the name of the song in your
+dictionary and print the name of the artist who sings it. Otherwise, you print a message letting the user know
+the name of the song is not available.
+"""
