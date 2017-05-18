@@ -24,13 +24,13 @@ nationality.
 Dictionaries are represented with curly brackets. There are two syntaxes for creating dictionaries:
 """
 
-my_dict = dict()
-print(my_dict)
-
+# my_dict = dict()
+# print(my_dict)
+#
 # And:
-
-my_dict = {}
-print(my_dict)
+#
+# my_dict = {}
+# print(my_dict)
 
 """
 You can add key-value pairs to a dictionary when you create it. Both syntaxes have the key separated
@@ -39,12 +39,12 @@ just one key-value pair, you do not need a comma after it. Here is how you add k
 a dictionary when you create it:
 """
 
-fruits = {"Apple":
-          "Red",
-          "Banana":
-          "Yellow"}
-
-print(fruits)
+# fruits = {"Apple":
+#           "Red",
+#           "Banana":
+#           "Yellow"}
+#
+# print(fruits)
 
 """
 Dictionaries are mutable. Once you've created a dictionary, you can add key-value pairs to it with
@@ -52,24 +52,24 @@ the syntax [dictionary_name][[key]]=[value], and look up a value using a key wit
 [dictionary_name][key]:
 """
 
-facts = dict()
+# facts = dict()
 
 
 # add a value
-facts["code"] = "fun"
+# facts["code"] = "fun"
 # look up key
-print(facts["code"])
+# print(facts["code"])
 
 
 # add a value
-facts["Bill"] = "Gates"
+# facts["Bill"] = "Gates"
 # look up key
-print(facts["Bill"])
+# print(facts["Bill"])
 
 # add a value
-facts["founded"] = 1776
+# facts["founded"] = 1776
 # look up key
-print(facts["founded"])
+# print(facts["founded"])
 
 """
 Any object can be a dictionary value. In the previous example, the first two values are strings,
@@ -82,7 +82,47 @@ Use the in keyword to check if a key is in a dictionary. You cannot use the in k
 if a value is in a dictionary:
 """
 
-bill = dict({"Bill Gates":
-             "charitable"})
+# bill = dict({"Bill Gates":
+#              "charitable"})
+#
+# print("Bill Gates" in bill)
 
-print("Bill Gates" in bill)
+"""
+If you try to access a key that isn't in a dictionary, Python will raise an exception.
+
+Add the keyword not to in to check if a key is not in a dictionary:
+"""
+
+# using the same dictionary as the one above instead of repeating the same code
+
+# print("Bill Doors" not in bill)
+
+"""
+You can delete a key-value pair from a dictionary with the keyword del:
+"""
+
+# books = {"Dracula": "Stoker",
+#          "1984": "Orwell",
+#          "The Trial": "Kafka"}
+#
+# del books["The Trial"]
+#
+# print(books)
+
+"""
+Here is an example of a program using a dictionary:
+"""
+
+rhymes = {"1": "fun",
+          "2": "blue",
+          "3": "me",
+          "4": "floor",
+          "5": "live"
+          }
+
+n = input("Type a number:")
+if n in rhymes:
+    rhyme = rhymes[n]
+    print(rhyme)
+else:
+    print("Not found. Try again.")
