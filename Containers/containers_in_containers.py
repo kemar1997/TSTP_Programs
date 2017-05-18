@@ -66,3 +66,42 @@ nines = ["Hemingway",
 
 authors = (eights, nines)
 print(authors)
+
+# ---------------------------------------------------------------------------
+
+bday = {"Hemingway":
+        "7.21.1899",
+        "Fitzgerald":
+        "9.24.1896"}
+
+my_list = [bday]
+print(my_list)
+my_tuple = (bday,)
+print(my_tuple)
+
+# A list, tuple, or dictionary can be a value in a dictionary
+
+ny = {"location":
+      (40.7128,
+       74.0059),
+
+
+      "celebs":
+      ["W. Allen",
+       "Jay Z",
+       "K. Bacon"],
+
+
+      "facts":
+      {"state":
+       "NY",
+       "country":
+       "America"}
+}
+
+print(ny)
+
+
+"""
+In this example, your dictionary, ny has three keys: "location", "celebs", and "facts".
+"""
