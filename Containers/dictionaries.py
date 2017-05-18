@@ -33,5 +33,56 @@ my_dict = {}
 print(my_dict)
 
 """
-You can 
+You can add key-value pairs to a dictionary when you create it. Both syntaxes have the key separated
+from the value by a colon. A comma must separate each key-value pair. Unlike a tuple, if you have
+just one key-value pair, you do not need a comma after it. Here is how you add key-value pairs to
+a dictionary when you create it:
 """
+
+fruits = {"Apple":
+          "Red",
+          "Banana":
+          "Yellow"}
+
+print(fruits)
+
+"""
+Dictionaries are mutable. Once you've created a dictionary, you can add key-value pairs to it with
+the syntax [dictionary_name][[key]]=[value], and look up a value using a key with the syntax
+[dictionary_name][key]:
+"""
+
+facts = dict()
+
+
+# add a value
+facts["code"] = "fun"
+# look up key
+print(facts["code"])
+
+
+# add a value
+facts["Bill"] = "Gates"
+# look up key
+print(facts["Bill"])
+
+# add a value
+facts["founded"] = 1776
+# look up key
+print(facts["founded"])
+
+"""
+Any object can be a dictionary value. In the previous example, the first two values are strings,
+and the last value, 1776, is an integer.
+
+Unlike a dictionary value, a dictionary key must be immutable. A string or a tuple can be a
+dictionary key, but not a list or a dictionary.
+
+Use the in keyword to check if a key is in a dictionary. You cannot use the in keyword to check
+if a value is in a dictionary:
+"""
+
+bill = dict({"Bill Gates":
+             "charitable"})
+
+print("Bill Gates" in bill)
