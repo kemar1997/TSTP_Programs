@@ -31,3 +31,8 @@ r = """The {} {} the {} {}
                n2)
 
 print(r)
+
+"""
+Your program asks the user to enter two nouns, a verb, and an adjective, then uses the format method to create a new
+string with the input and prints it.
+"""
