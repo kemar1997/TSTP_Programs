@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String_Manipulation/Indexes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String_Manipulation/strings_are_immutable.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Indexes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Indexes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String_Manipulation/Indexes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
               <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings_are_immutable.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/String_Manipulation/strings_are_immutable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/ch5_challenge5.py" />
         <option value="$PROJECT_DIR$/String_Manipulation/Triple_Strings.py" />
         <option value="$PROJECT_DIR$/String_Manipulation/Indexes.py" />
+        <option value="$PROJECT_DIR$/String_Manipulation/strings_are_immutable.py" />
       </list>
     </option>
   </component>
@@ -163,25 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Indexes">
-    <configuration default="false" name="ch5_challenge2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TSTP_Programs" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5_challenge2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.strings_are_immutable">
     <configuration default="false" name="ch5_challenge3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,6 +247,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="strings_are_immutable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_Manipulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TSTP_Programs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_Manipulation/strings_are_immutable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,19 +330,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ch5_challenge2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ch5_challenge3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ch5_challenge4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ch5_challenge5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Indexes" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ch5_challenge3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ch5_challenge4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ch5_challenge5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Indexes" />
+      <item index="4" class="java.lang.String" itemvalue="Python.strings_are_immutable" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Indexes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ch5_challenge5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ch5_challenge4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ch5_challenge3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ch5_challenge2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.strings_are_immutable" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Indexes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ch5_challenge5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ch5_challenge4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ch5_challenge3" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495130637868</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Chapter 6 - Indexes (1st Commit)">
+      <created>1495176208263</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1495176208263</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView">
@@ -525,7 +543,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31628534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31628534" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -563,7 +581,8 @@
     <MESSAGE value="Chapter 5 - Challenge1" />
     <MESSAGE value="Chapter 5 - Challenge 2, 3, 4, 5" />
     <MESSAGE value="Chapter 6 - Triple_Strings (1st Commit)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 - Triple_Strings (1st Commit)" />
+    <MESSAGE value="Chapter 6 - Indexes (1st Commit)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 - Indexes (1st Commit)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -839,6 +858,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="40" column="15" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String_Manipulation/strings_are_immutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
