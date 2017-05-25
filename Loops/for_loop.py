@@ -118,3 +118,10 @@ for show in coms:
 
 
 print(all_shows)
+
+"""
+In this example, there are three lists: tv, coms, and all_shows. In the first loop, you iterate through all the items
+in the list tv, use the upper method to capitalize each item in it, and use the append method to add each item to the
+list all_shows. In the second loop, you do the same thing with the coms list. When you print the list all_shows, it 
+contains all of the items from both lists, with every item capitalized.
+"""

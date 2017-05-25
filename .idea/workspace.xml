@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loops/for_loop.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops/for_loop.py" afterPath="$PROJECT_DIR$/Loops/for_loop.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +21,8 @@
       <file leaf-file-name="for_loop.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Loops/for_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="119" column="16" lean-forward="true" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+            <state relative-caret-position="411">
+              <caret line="125" column="71" lean-forward="false" selection-start-line="125" selection-start-column="71" selection-end-line="125" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -565,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495559496180</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Chapter 7 - For Loops">
+      <created>1495678604945</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1495678604945</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
@@ -605,7 +611,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="chapter4 - challenge4" />
     <MESSAGE value="chapter4 - challenge5" />
     <MESSAGE value="Chapter5 - Containers" />
     <MESSAGE value="Chapter5 - Tuples" />
@@ -630,7 +635,8 @@
     <MESSAGE value="Chapter 6 - join, split methods" />
     <MESSAGE value="Chapter 6 - replaces, strip (finished) methods" />
     <MESSAGE value="Chapter 6 - escaping strings, find an index, in keyword, newline, slicing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 - escaping strings, find an index, in keyword, newline, slicing" />
+    <MESSAGE value="Chapter 7 - For Loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 7 - For Loops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -972,8 +978,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Loops/for_loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="119" column="16" lean-forward="true" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+        <state relative-caret-position="411">
+          <caret line="125" column="71" lean-forward="false" selection-start-line="125" selection-start-column="71" selection-end-line="125" selection-end-column="71" />
           <folding />
         </state>
       </provider>
