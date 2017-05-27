@@ -36,7 +36,7 @@ while True:
         a = input(qs[0])
         b = input(qs[1])
         c = input(qs[2])
-        if (a == "q"):
+        if a == "q":
             break
         result = [a, b, c]
         print(result)
