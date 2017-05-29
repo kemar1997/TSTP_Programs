@@ -20,6 +20,6 @@ params, x and y, and raises x by y:
 """
 
 print(math.pow(2, 3),
-    math.pow(3, 3),
-    math.pow(4, 3),
-    math.pow(5, 3))
+      math.pow(3, 3),
+      math.pow(4, 3),
+      math.pow(5, 3))
