@@ -1,5 +1,9 @@
+# The built-in modules used as an example in this part of the chapter
+
 import math
 import random
+import statistics
+import keyword
 
 """
 To use a module, you must first import it: which means writing code, so Python knows where to look for it. You can
@@ -31,3 +35,24 @@ integer: you pass two integers, and it returns a random integer between them:
 """
 
 print(random.randint(0, 100))
+
+"""
+You can use the built-in 'statistics' module to calculate the mean, median, and mode in an iterable of numbers:
+"""
+
+# mean
+nums = [1, 5, 33, 12, 46, 33, 2]
+print(statistics.mean(nums))
+
+# median
+print(statistics.median(nums))
+
+# mode
+print(statistics.mode(nums))
+
+'''
+Use the built-in "keyword" module to check if a string is a Python keyword:
+'''
+
+print(keyword.iskeyword("for"))
+print(keyword.iskeyword("football"))
