@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter8_Modules/importing_other_modules.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Created_Modules/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Created_Modules/hello.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Created_Modules/module1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Created_Modules/module2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Created_Modules/project.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch4_challenge1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch4_challenge2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch4_challenge3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch4_challenge4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch4_challenge5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch5_challenge1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch5_challenge2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch5_challenge3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch5_challenge4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ch5_challenge5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Created_Modules/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Created_Modules/hello.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Created_Modules/module1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Created_Modules/module2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Created_Modules/project.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +23,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Created_Modules/hello.py">
+        <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/hello.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -44,7 +33,7 @@
         </entry>
       </file>
       <file leaf-file-name="project.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Created_Modules/project.py">
+        <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/project.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
@@ -54,17 +43,17 @@
         </entry>
       </file>
       <file leaf-file-name="module1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Created_Modules/module1.py">
+        <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/module1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="50">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="module2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Created_Modules/module2.py">
+        <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/module2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
@@ -185,20 +174,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Created_Modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TSTP_Programs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TSTP_Programs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Chapter8_Modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -213,6 +188,11 @@
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/python.exe" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Pycharm_Projects/TSTP_Programs/ch4_challenge4.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Pycharm_Projects\TSTP_Programs\Chapter8_Modules" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -699,7 +679,21 @@
       <option name="project" value="LOCAL" />
       <updated>1496688994489</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Chapter 8 - Modules (Part 4)">
+      <created>1496690716441</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1496690716441</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Chapter 8 - Modules (Part 5)">
+      <created>1496690987154</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1496690987154</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TodoView">
@@ -713,12 +707,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23687753" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38625205" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38625205" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -739,8 +732,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter5 - Dictionaries(4th Commit)" />
-    <MESSAGE value="(Update the comments on one of the sample programs)" />
     <MESSAGE value="Chapter 5 - Containers in Containers (1st Commit)" />
     <MESSAGE value="Chapter 5 - Containers in Containers (2nd Commit)" />
     <MESSAGE value="Chapter 5 - Challenge1" />
@@ -764,7 +755,9 @@
     <MESSAGE value="Chapter 8 - Modules (Part 1)" />
     <MESSAGE value="Chapter 8 - Modules (Part 2)" />
     <MESSAGE value="Chapter 8 - Modules (Part 3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 8 - Modules (Part 3)" />
+    <MESSAGE value="Chapter 8 - Modules (Part 4)" />
+    <MESSAGE value="Chapter 8 - Modules (Part 5)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 8 - Modules (Part 5)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -876,20 +869,26 @@
     <entry file="file://$PROJECT_DIR$/Loops/break.py" />
     <entry file="file://$PROJECT_DIR$/Loops/continue.py" />
     <entry file="file://$PROJECT_DIR$/Loops/nested_loops_ex.py" />
-    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/importing_built_in_modules.py">
+    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="e#71#82#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Created_Modules/hello.py">
+    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -902,39 +901,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/importing_built_in_modules.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="186">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="e#71#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Created_Modules/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/module1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Created_Modules/project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Created_Modules/module1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Created_Modules/module2.py">
+    <entry file="file://$PROJECT_DIR$/Chapter8_Modules/Created_Modules/module2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
