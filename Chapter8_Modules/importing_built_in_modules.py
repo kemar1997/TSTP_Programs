@@ -1,4 +1,5 @@
 import math
+import random
 
 """
 To use a module, you must first import it: which means writing code, so Python knows where to look for it. You can
@@ -23,3 +24,10 @@ print(math.pow(2, 3),
       math.pow(3, 3),
       math.pow(4, 3),
       math.pow(5, 3))
+
+"""
+The random module is another built-in module. You can use a function from it called 'randint' to generate a random
+integer: you pass two integers, and it returns a random integer between them:
+"""
+
+print(random.randint(0, 100))
