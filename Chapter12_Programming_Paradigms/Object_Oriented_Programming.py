@@ -37,8 +37,28 @@ special method called __init__ (which stands for initialize) that Python calls w
 # Here is an example of a class that represents an orange:
 
 
+# class Orange:
+	# def __init__(self, w, c):
+		# self.weight = w
+		# self.color = c
+		# print("Created!")
+		
+"""
+The code in __init__ executes when you create an Orange object and creates two instance variables: weight and color. You can use these variables like regular
+variables, in any method in your class. When you create and Orange object, the code in __init__ also prints  Created! Any method surrounded by double 
+underscores, like __init__, is called a magic method: a method Python uses for special purposes like creating an object.
+
+You can create a new Orange object with the same syntax you use to call a function; [classname]([parameters]), replacing [classname] with the name of the class
+you want to use to create the object and replacing [parameters] with the parameters __init__ accepts. You do not have to pass in self; Python passes it in
+automatically. Creating a new object is called instantiating a class:
+"""
+
 class Orange:
 	def __init__(self, w, c):
 		self.weight = w
 		self.color = c
 		print("Created!")
+		
+
+orl = Orange(10, "dark orange")
+print(orl)
