@@ -53,12 +53,101 @@ you want to use to create the object and replacing [parameters] with the paramet
 automatically. Creating a new object is called instantiating a class:
 """
 
-class Orange:
-	def __init__(self, w, c):
-		self.weight = w
-		self.color = c
-		print("Created!")
-		
+##class Orange:
+##	def __init__(self, w, c):
+##		self.weight = w
+##		self.color = c
+##		print("Created!")
+##		
+##
+##or1 = Orange(10, "dark orange")
+##print(orl)
 
-orl = Orange(10, "dark orange")
-print(orl)
+
+"""
+After the class definition, you instantiate the Orange class with the code Orange(10, "dark orange") and Created! prints. Then, you print the Orange object itself,
+and Python tells you it is an Orange object and gives you its location in memory.
+
+Once you've created an object, you can get the value of its instance variables with the syntax [object_name].[variable_name]:
+"""
+
+
+class Orange():
+        def __init__(self, w, c):
+                """weights are in oz"""
+                self.weight = w
+                self.color = c
+                self.mold = 0
+                print("Created!")
+
+        # giving the Orange object the ability to rot
+        def rot(self, days, temp):
+                self.mold = days * temp
+
+or1 = Orange(10, "dark orange")
+##print(or1.weight)
+##print(or1.color)
+
+# You can change the value of an instance variable with the syntax [object_name].[variable_name] = [new_value]:
+
+or1.weight = 100
+or1.color = "changed to light orange"
+print(or1.weight)
+print(or1.color)
+
+"""
+Although the instance variables color and weight started with the values "dark orange" and 10, you were able to change to change their values.
+
+You can use the Orange class to create multiple oranges:
+"""
+
+
+##or2 = Orange(4, "Light Orange")
+##or3 = Orange(8, "Dark Orange")
+##or4 = Orange(14, "Yellow")
+
+"""
+There is more to an orange than its physical properties, like color and weight. Oranges also do things, like rot, that you can model with methods.
+Here is how you can give an Orange object the ability to rot:
+"""
+
+orange = Orange(6, "orange")
+print(orange.mold)
+orange.rot(10, 98)
+print(orange.mold)
+
+"""
+The method rot accepts two parameters: the number of days since someone picked the orange, and the average temp during that time. When you call it,
+the method uses a formula to increment the instance variable mold, which works because you can change the value of any instance variable inside of
+any method. Now, the orange can rot.
+
+You can  define multiple methods in a class. Here is an example of modeling a rectangle with a method to calculate its area, and another method to
+change its size:
+"""
+
+class Rectangle():
+        def __init__(self, w, l):
+                self.width = w
+                self.len = l
+
+        def area(self):
+                return self.width * self.len
+
+        def chng_sz(self, w, l):
+                self.width = w
+                self.len = l
+
+
+rectangle = Rectangle(10, 20)
+print(rectangle.area())
+rectangle.chng_sz(20, 40)
+print(rectangle.area())
+
+"""
+In this example, Rectangle objects have two instance variables: len and width. The area method returns the area of the Rectangle object by multiplying
+the instance variables together, and the chng_sz method changes them by assigning them to numbers the caller passes in as parameters.
+
+Object-oriented programming has several advantages. It encourages code reuse, and thus decreases the amount of time spent developing and maintaining
+code. It also encourages breaking problems up into multiple pieces, which results in code that is easy to maintain. A disadvantage of object-oriented
+programming is that creating programs takes extra effort because a great deal of planning is often involved in designing them.
+"""
