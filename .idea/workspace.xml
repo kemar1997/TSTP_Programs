@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Abstraction.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Abstraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
+            <state relative-caret-position="126">
               <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Polymorphism.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -43,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/defining_functions5.py" />
         <option value="$PROJECT_DIR$/Built_In_Functions/built_in_functions1.py" />
         <option value="$PROJECT_DIR$/ch4_challenge1.py" />
         <option value="$PROJECT_DIR$/ch4_challenge2.py" />
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/Chapter12_Programming_Paradigms/Functional_Programming.py" />
         <option value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Encapsulation.py" />
         <option value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py" />
+        <option value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py" />
       </list>
     </option>
   </component>
@@ -172,25 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Abstraction">
-    <configuration default="false" name="project" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Created_Modules" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TSTP_Programs" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Created_Modules/project.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Polymorphism">
     <configuration default="false" name="importing_other_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,6 +255,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TSTP_Programs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,19 +338,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.project" />
-      <item index="1" class="java.lang.String" itemvalue="Python.importing_other_modules" />
-      <item index="2" class="java.lang.String" itemvalue="Python.module2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Procedural_Programming" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Abstraction" />
+      <item index="0" class="java.lang.String" itemvalue="Python.importing_other_modules" />
+      <item index="1" class="java.lang.String" itemvalue="Python.module2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Procedural_Programming" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Abstraction" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Polymorphism" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Abstraction" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Procedural_Programming" />
-        <item index="2" class="java.lang.String" itemvalue="Python.importing_other_modules" />
-        <item index="3" class="java.lang.String" itemvalue="Python.module2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.project" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Polymorphism" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Abstraction" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Procedural_Programming" />
+        <item index="3" class="java.lang.String" itemvalue="Python.importing_other_modules" />
+        <item index="4" class="java.lang.String" itemvalue="Python.module2" />
       </list>
     </recent_temporary>
   </component>
@@ -687,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498615211064</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Learning Abstraction">
+      <created>1498691901896</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1498691901896</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TodoView">
@@ -703,7 +720,7 @@
     <frame x="683" y="0" width="683" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23687753" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38487396" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
@@ -727,7 +744,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 5 - Challenge1" />
     <MESSAGE value="Chapter 5 - Challenge 2, 3, 4, 5" />
     <MESSAGE value="Chapter 6 - Triple_Strings (1st Commit)" />
     <MESSAGE value="Chapter 6 - Indexes (1st Commit)" />
@@ -752,7 +768,8 @@
     <MESSAGE value="Chapter 8 - Modules (Part 5)" />
     <MESSAGE value="Chapter 12 - working on paradigms (Part 1)" />
     <MESSAGE value="updating Chapter 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating Chapter 13" />
+    <MESSAGE value="Learning Abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning Abstraction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -761,13 +778,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Built_In_Functions/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Built_In_Functions/built_in_functions1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -868,8 +878,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
+        <state relative-caret-position="126">
           <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
           <folding />
         </state>
       </provider>
