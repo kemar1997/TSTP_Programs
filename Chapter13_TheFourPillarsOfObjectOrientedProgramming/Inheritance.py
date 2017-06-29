@@ -53,10 +53,30 @@ A child class is like any other class; you can define methods and variables in i
 """
 
 
+# class Square(Shape):
+#     def area(self):
+#         return self.width * self.len
+#
+#
+# a_square = Square(20, 20)
+# print(a_square.area())
+
+
+"""
+When a child class inherits a method from a parent class, you can override it by defining a new method with the same
+name as the inherited method. A child class's ability to change the implementation of a method inherited from its parent
+class is called method overriding.
+"""
+
+
 class Square(Shape):
     def area(self):
         return self.width * self.len
 
+    def print_size(self):
+        print("""I am {} by {}
+              """.format(self.width,
+                         self.len))
 
-a_square = Square(20, 20)
-print(a_square.area())
+a_square = Square(20,20)
+a_square.print_size()
