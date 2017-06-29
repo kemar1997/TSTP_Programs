@@ -78,5 +78,5 @@ class Square(Shape):
               """.format(self.width,
                          self.len))
 
-a_square = Square(20,20)
+a_square = Square(20, 20)
 a_square.print_size()
