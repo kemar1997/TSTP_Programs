@@ -60,3 +60,11 @@ shapes = [trl,
           crl]
 for a_shape in shapes:
     a_shape.draw()
+
+
+"""
+If you wanted to add a new shape to the shapes list without polymorphism, you would have to modify the code in the
+for-loop to test a_shape type and call its draw method. With a uniform, polymorphic interface, you can add as many shape
+classes to the shapes list in the future as you want, and the shape will be able to draw itself without any additional
+code.
+"""
