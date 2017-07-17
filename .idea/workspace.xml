@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Inheritance.py" afterPath="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Inheritance.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,31 +19,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Abstraction.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py">
+      <file leaf-file-name="Challenge1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Polymorphism.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py">
+      <file leaf-file-name="Challenge2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+            <state relative-caret-position="50">
+              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Inheritance.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Inheritance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="80" column="22" lean-forward="false" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+            <state relative-caret-position="185">
+              <caret line="86" column="63" lean-forward="false" selection-start-line="86" selection-start-column="63" selection-end-line="86" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Challenge3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,10 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch4_challenge1.py" />
-        <option value="$PROJECT_DIR$/ch4_challenge2.py" />
-        <option value="$PROJECT_DIR$/ch4_challenge3.py" />
-        <option value="$PROJECT_DIR$/ch4_challenge4.py" />
         <option value="$PROJECT_DIR$/ch4_challenge5.py" />
         <option value="$PROJECT_DIR$/Containers/tuples.py" />
         <option value="$PROJECT_DIR$/Containers/lists.py" />
@@ -114,6 +121,10 @@
         <option value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py" />
         <option value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py" />
         <option value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Inheritance.py" />
+        <option value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Composition.py" />
+        <option value="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge1.py" />
+        <option value="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge2.py" />
+        <option value="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge3.py" />
       </list>
     </option>
   </component>
@@ -139,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,9 +178,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TSTP_Programs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TSTP_Programs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch13_Challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TSTP_Programs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TSTP_Programs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,79 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Inheritance">
-    <configuration default="false" name="importing_other_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter8_Modules" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TSTP_Programs" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter8_Modules/importing_other_modules.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Procedural_Programming" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter12_Programming_Paradigms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TSTP_Programs" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter12_Programming_Paradigms/Procedural_Programming.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TSTP_Programs" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TSTP_Programs" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Challenge3">
     <configuration default="false" name="Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,6 +250,78 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TSTP_Programs" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Composition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TSTP_Programs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Composition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Challenge1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/Ch13_Challenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TSTP_Programs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Challenge2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/Ch13_Challenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TSTP_Programs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Challenge3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/Ch13_Challenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TSTP_Programs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,19 +392,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.importing_other_modules" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Procedural_Programming" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Abstraction" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Polymorphism" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Inheritance" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Inheritance" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Composition" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Challenge1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Challenge2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Challenge3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Inheritance" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Polymorphism" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Abstraction" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Procedural_Programming" />
-        <item index="4" class="java.lang.String" itemvalue="Python.importing_other_modules" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Challenge3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Challenge2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Challenge1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Composition" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -378,27 +421,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494473081842</updated>
-    </task>
-    <task id="LOCAL-00004" summary="chapter4 - challenge4">
-      <created>1494874042533</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1494874042533</updated>
-    </task>
-    <task id="LOCAL-00005" summary="chapter4 - challenge5">
-      <created>1494874671829</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1494874671829</updated>
-    </task>
-    <task id="LOCAL-00006" summary="chapter4 - challenge5">
-      <created>1494874684051</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1494874684051</updated>
     </task>
     <task id="LOCAL-00007" summary="Chapter5 - Containers">
       <created>1494882094564</created>
@@ -722,7 +744,28 @@
       <option name="project" value="LOCAL" />
       <updated>1498706513391</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="overriding with Inheritance">
+      <created>1498712962255</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1498712962255</updated>
+    </task>
+    <task id="LOCAL-00054" summary="overriding with Inheritance(updated)">
+      <created>1500322524814</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1500322524814</updated>
+    </task>
+    <task id="LOCAL-00055" summary="new concept addition + first challenge for the chapter">
+      <created>1500325507002</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1500325507002</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView">
@@ -738,11 +781,10 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23687753" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3747954" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29623568" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24879615" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -755,6 +797,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -762,8 +805,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 6 - Concatenation, String Multiplication, Change Case" />
-    <MESSAGE value="Chapter 6 - Format" />
     <MESSAGE value="Chapter 6 - Format (2nd Commit)" />
     <MESSAGE value="Chapter 6 - join, split methods" />
     <MESSAGE value="Chapter 6 - replaces, strip (finished) methods" />
@@ -787,7 +828,9 @@
     <MESSAGE value="Learning Polymorphism (added a new comment)" />
     <MESSAGE value="dealing with Inheritance" />
     <MESSAGE value="overriding with Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="overriding with Inheritance" />
+    <MESSAGE value="overriding with Inheritance(updated)" />
+    <MESSAGE value="new concept addition + first challenge for the chapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="new concept addition + first challenge for the chapter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -796,10 +839,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch4_challenge1.py" />
-    <entry file="file://$PROJECT_DIR$/ch4_challenge3.py" />
-    <entry file="file://$PROJECT_DIR$/ch4_challenge2.py" />
-    <entry file="file://$PROJECT_DIR$/ch4_challenge5.py" />
     <entry file="file://$PROJECT_DIR$/ch4_challenge4.py" />
     <entry file="file://$PROJECT_DIR$/Containers/lists.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -887,26 +926,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Composition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Abstraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="160">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Polymorphism.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="260">
           <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13_TheFourPillarsOfObjectOrientedProgramming/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="80" column="22" lean-forward="false" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+        <state relative-caret-position="185">
+          <caret line="86" column="63" lean-forward="false" selection-start-line="86" selection-start-column="63" selection-end-line="86" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/Ch13_Challenges/Challenge3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
