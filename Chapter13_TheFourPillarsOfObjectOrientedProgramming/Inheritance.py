@@ -80,3 +80,9 @@ class Square(Shape):
 
 a_square = Square(20, 20)
 a_square.print_size()
+
+
+"""
+In this case, because you defined a method named print_size, the newly defined method overrides the parent method
+of the same name, and it prints a new message when you call it.
+"""
