@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/Class_Variables_VS_Instance_Variables.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/Is_keyword.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/Magic_Methods.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -382,13 +378,6 @@
       <option name="presentableId" value="Default" />
       <updated>1494473081842</updated>
     </task>
-    <task id="LOCAL-00009" summary="Chapter5 - Tuples">
-      <created>1494903827197</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1494903827198</updated>
-    </task>
     <task id="LOCAL-00010" summary="Chapter5 - Tuples(Update)">
       <created>1494958395688</created>
       <option name="number" value="00010" />
@@ -725,7 +714,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500331126272</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="finished Chapter 14">
+      <created>1500411039649</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1500411039650</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TodoView">
@@ -765,7 +761,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 6 - replaces, strip (finished) methods" />
     <MESSAGE value="Chapter 6 - escaping strings, find an index, in keyword, newline, slicing" />
     <MESSAGE value="Chapter 7 - For Loops" />
     <MESSAGE value="Chapter 7 - For Loops (Added a new comment)" />
@@ -790,7 +785,8 @@
     <MESSAGE value="new concept addition + first challenge for the chapter" />
     <MESSAGE value="new challenges added" />
     <MESSAGE value="all challenges done" />
-    <option name="LAST_COMMIT_MESSAGE" value="all challenges done" />
+    <MESSAGE value="finished Chapter 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished Chapter 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
