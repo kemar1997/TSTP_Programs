@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7576849e-8e0c-427d-8737-349264483289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Challenges/Ch14_Challenges/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Is_keyword.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/Is_keyword.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter9_Files/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+            <state relative-caret-position="75">
+              <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Challenge3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge3.py">
+      <file leaf-file-name="Writing_to_files.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter9_Files/Writing_to_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="505">
+              <caret line="53" column="76" lean-forward="false" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -56,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch5_challenge3.py" />
-        <option value="$PROJECT_DIR$/ch5_challenge4.py" />
         <option value="$PROJECT_DIR$/ch5_challenge5.py" />
         <option value="$PROJECT_DIR$/String_Manipulation/Triple_Strings.py" />
         <option value="$PROJECT_DIR$/String_Manipulation/Indexes.py" />
@@ -107,6 +101,8 @@
         <option value="$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge1.py" />
         <option value="$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge2.py" />
         <option value="$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge3.py" />
+        <option value="$PROJECT_DIR$/Chapter9_Files/__init__.py" />
+        <option value="$PROJECT_DIR$/Chapter9_Files/Writing_to_files.py" />
       </list>
     </option>
   </component>
@@ -133,6 +129,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,45 +152,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chaper14_MoreObjectOrientedProgramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TSTP_Programs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TSTP_Programs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Challenges" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch14_Challenges" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TSTP_Programs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TSTP_Programs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Challenges" />
+              <option name="myItemId" value="Chapter9_Files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,25 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Challenge3">
-    <configuration default="false" name="Magic_Methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TSTP_Programs" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/Magic_Methods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Writing_to_files">
     <configuration default="false" name="Is_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,6 +255,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Writing_to_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter9_Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TSTP_Programs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter9_Files/Writing_to_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,19 +338,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Magic_Methods" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Is_keyword" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Challenge1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Challenge2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Challenge3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Is_keyword" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Challenge1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Challenge2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Challenge3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Writing_to_files" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Challenge3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Is_keyword" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Challenge2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Challenge1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Magic_Methods" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Writing_to_files" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Challenge3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Is_keyword" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Challenge2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Challenge1" />
       </list>
     </recent_temporary>
   </component>
@@ -403,27 +367,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494473081842</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Chapter5 - Tuples(Update2)">
-      <created>1494959914551</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1494959914551</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Chapter5 - Tuples(Update3)">
-      <created>1495001286456</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1495001286456</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Chapter5 - Dictionaries(First Commit)">
-      <created>1495056028606</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1495056028606</updated>
     </task>
     <task id="LOCAL-00014" summary="Chapter5 - Dictionaries(2nd Commit)">
       <created>1495069261660</created>
@@ -747,7 +690,28 @@
       <option name="project" value="LOCAL" />
       <updated>1500411056108</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="finished Chapter 14 challenges">
+      <created>1500432174425</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1500432174426</updated>
+    </task>
+    <task id="LOCAL-00061" summary="new chapter">
+      <created>1500938154209</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1500938154209</updated>
+    </task>
+    <task id="LOCAL-00062" summary="new chapter">
+      <created>1501358628678</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1501358628679</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TodoView">
@@ -761,9 +725,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23687753" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29623568" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
@@ -787,8 +750,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 6 - escaping strings, find an index, in keyword, newline, slicing" />
-    <MESSAGE value="Chapter 7 - For Loops" />
     <MESSAGE value="Chapter 7 - For Loops (Added a new comment)" />
     <MESSAGE value="Chapter 7 - Range" />
     <MESSAGE value="Chapter 7 - While Loops" />
@@ -812,7 +773,9 @@
     <MESSAGE value="new challenges added" />
     <MESSAGE value="all challenges done" />
     <MESSAGE value="finished Chapter 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Chapter 14" />
+    <MESSAGE value="finished Chapter 14 challenges" />
+    <MESSAGE value="new chapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="new chapter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -821,14 +784,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch5_challenge5.py" />
-    <entry file="file://$PROJECT_DIR$/Containers/dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="134" column="38" lean-forward="false" selection-start-line="134" selection-start-column="38" selection-end-line="134" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Containers/tuples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -954,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="63" column="3" lean-forward="false" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,7 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="57" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,22 +930,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/Is_keyword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Challenges/Ch14_Challenges/Challenge3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="205">
           <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chaper14_MoreObjectOrientedProgramming/Is_keyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="21" column="52" lean-forward="false" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9_Files/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9_Files/Writing_to_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="53" column="76" lean-forward="false" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="76" />
           <folding />
         </state>
       </provider>
